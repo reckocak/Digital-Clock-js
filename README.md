@@ -13,10 +13,9 @@ Yeni bir Date nesnesi oluşturulur. Daha sonra getHours(), getMinutes() ve getSe
 
 |----Digital-Clock(folder)
         |----readme.md
-        |----solution 
-                |----index.html
-                |----style.css
-                |----app.js
+        |----index.html
+        |----style.css
+        |----app.js
 ```     
 
 ![clock](./Ekran%20Resmi%202022-06-21%2015.19.08.png)
